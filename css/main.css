@@ -2589,7 +2589,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
-  background-size: 100% 100%;
+  background-size: center;
 }
 .header-inner {
   background: rgba(255,255,255,0.9);
