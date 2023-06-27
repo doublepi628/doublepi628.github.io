@@ -2591,3 +2591,9 @@ body {
   background-position: 50% 50%;
   background-size: 100% 100%;
 }
+.header-inner {
+  background: rgba(255,255,255,0.9);
+}
+.main-inner {
+  opacity: 0.9;
+}
