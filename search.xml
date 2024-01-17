@@ -4,17 +4,15 @@
   
     
     <entry>
-      <title>【预告】北京地铁换乘站引导</title>
+      <title>北京地铁换乘站引导</title>
       <link href="/Subway/"/>
       <url>/Subway/</url>
       
-        <content type="html"><![CDATA[<p>这是我做过的最棒的一个项目，将最晚于下周二发布第一个版本。<br><span id="more"></span><br><div class="link-grid"><div class="link-grid-container"><object class="link-grid-image" data="/images/buaa.jpg"></object><p>下载测试版</p><p>永久有效</p><a href="https://gitee.com/doublepi628/bsa/raw/master/app-release.apk"></a></div></div></p>]]></content>
+        <content type="html"><![CDATA[<p>这是我大二上学期OOP(JAVA)课程的大作业，做了一个提供北京地铁各类信息的安卓程序。这份作品让大二的我比较自豪，不仅是因为得到了满分，更多是感觉自己终于可以做一些有意义的程序了。回想起大二上学期课程较多并且较难，自己取得的成绩十分不理想，但还好也算是做了一些有意义的事情。在此做个记录，希望未来的自己能更认真地学习专业课、做的大作业比这份还要用心，如能在未来把大二上拉下的成绩补上去那更好了。<br><span id="more"></span></p><h2 id="项目背景"><a href="#项目背景" class="headerlink" title="项目背景"></a>项目背景</h2><p>对于北京地铁乘坐者而言，经常会遇到不知道从哪里换乘或出站更快，站内是否存在卫生间及卫生间的位置，站内楼梯、扶梯和直梯的位置等问题。尽管北京地铁官网等网站存在这些信息，但是这些没有处理过的杂乱无章的信息很难被用户利用。同时，国内主流地图软件例如高德地图、百度地图、腾讯地图等并没有提供对该需求的支持。</p><p>所以，本项目抓住该痛点，力图实现一个支持地铁换乘和出站引导的导航程序。项目实现功能如下：</p><ul><li>与各大主流软件基本一致的基本功能，包括定位，提供最短路线及最少换乘路线信息等。</li><li>提供换乘站、出站口最近车厢等信息。</li><li>提供方便携带大件行李乘客、行动不便者的直梯引导信息。</li><li>提供各个地铁站站内设施及设施所在位置的具体信息。</li></ul><h2 id="项目开发环境"><a href="#项目开发环境" class="headerlink" title="项目开发环境"></a>项目开发环境</h2><p>本项目使用 Android Studio (2022.3.1.21) 进行开发。</p><p>使用 Android Studio 提供的虚拟设备及团队成员的移动设备进行测试。</p><p>所使用 Java 软件开发包 (JDK) 版本为 JDK 1.8 。</p><p>项目编译环境 SDK 33 (Android 13.0) 。</p><h2 id="项目运行环境"><a href="#项目运行环境" class="headerlink" title="项目运行环境"></a>项目运行环境</h2><p>本项目的运行环境为 Android 移动设备。</p><p>最小 Android 版本 SDK 24 (Android 7.0) 。</p><p>目标 Android 版本 SDK 33 (Android 13.0) 。</p><h2 id="项目所用素材版权说明"><a href="#项目所用素材版权说明" class="headerlink" title="项目所用素材版权说明"></a>项目所用素材版权说明</h2><h3 id="地铁线路及站点相关信息"><a href="#地铁线路及站点相关信息" class="headerlink" title="地铁线路及站点相关信息"></a>地铁线路及站点相关信息</h3><p>此部分信息来自于北京地铁官网及<a href="https://www.weibo.com/u/3179035790">@北海沙发小萌新收集</a>的数据。</p><p>来自北京地铁官网的信息为公开信息，不涉及版权问题。</p><p>该用户收集的信息遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>协议发布，本作品遵循相同协议发布，并且在作品里注明了原作者，故不存在版权问题。</p><h3 id="所用图标信息"><a href="#所用图标信息" class="headerlink" title="所用图标信息"></a>所用图标信息</h3><p>项目使用图片图标来自北京地铁官网截图、开发环境 Android Studio 内置及项目成员自制。</p><h2 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h2><div class="link-grid"><div class="link-grid-container"><object class="link-grid-image" data="/images/buaa.jpg"></object><p>下载链接</p><p>永久有效</p><a href="https://gitee.com/doublepi628/bsa/"></a></div></div>]]></content>
       
       
       
         <tags>
-            
-            <tag> 预告 </tag>
             
             <tag> 安卓开发 </tag>
             
